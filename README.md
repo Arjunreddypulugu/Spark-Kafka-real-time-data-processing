@@ -1,7 +1,7 @@
 IoT: Real-time Data Processing and Analytics using Apache Spark / Kafka
 =============================================
 
-![ProjectOverivew](image.png)  
+![ProjectOverivew]  
 
 ## Table of Contents
 1. [Overview](#1-overview)
